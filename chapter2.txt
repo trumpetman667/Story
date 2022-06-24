@@ -1,1 +1,3 @@
 This is chapter 2 of the rather long document I am writing.
+This is the second line of text for this file. It is not yet
+placed in the master branch but will eventually.
